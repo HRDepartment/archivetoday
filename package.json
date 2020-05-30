@@ -1,0 +1,42 @@
+{
+  "name": "archivetoday",
+  "version": "1.0.0",
+  "description": "Unofficial API and CLI for archive.today.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "archivetoday": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caresx/archivetoday.git"
+  },
+  "keywords": [
+    "archive",
+    "snapshot",
+    "archiveis",
+    "archivetoday",
+    "archive.is",
+    "archive.vn",
+    "archive.md",
+    "wayback",
+    "archiving"
+  ],
+  "author": "Tycho Kaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caresx/archivetoday/issues"
+  },
+  "homepage": "https://github.com/caresx/archivetoday#readme",
+  "scripts": {
+    "test": "xo"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.0",
+    "user-agents": "^1.0.x"
+  },
+  "devDependencies": {
+    "xo": "^0.30.0"
+  }
+}

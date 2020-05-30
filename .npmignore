@@ -1,0 +1,7 @@
+README.md
+package-lock.json
+.prettierrc
+.gitignore
+.editorconfig
+.xo-config.json
+test.sh

@@ -1,0 +1,12 @@
+{
+  "prettier": true,
+  "space": true,
+  "rules": {
+    "guard-for-in": 0,
+    "no-await-in-loop": 0,
+    "@typescript-eslint/explicit-function-return-type": 0,
+    "@typescript-eslint/restrict-template-expressions": 0,
+    "node/prefer-promises/fs": 0,
+    "capitalized-comments": 0
+  }
+}
