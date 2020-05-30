@@ -15,12 +15,13 @@
     "archive",
     "snapshot",
     "archiveis",
-    "archivetoday",
+    "archive.today",
     "archive.is",
     "archive.vn",
     "archive.md",
     "wayback",
-    "archiving"
+    "archiving",
+    "preservation"
   ],
   "author": "Tycho Kaster",
   "license": "MIT",
