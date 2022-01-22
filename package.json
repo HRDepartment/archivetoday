@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "user-agents": "^1.0.x"
   },
   "devDependencies": {
