@@ -38,6 +38,6 @@
     "user-agents": "^1.0.x"
   },
   "devDependencies": {
-    "xo": "^0.30.0"
+    "xo": "^0.53.1"
   }
 }
